@@ -5,26 +5,25 @@ description:
 feature_image: 
 ---
 
-
-![Esquema de especies](images/esquemacolorjardin1.jpg)
+![Esquema de especies](images/jard01esquemacolorjardin1.jpg)
 
 # 1.Jardín de los Talleres
 
 Después del asunto del rabo de gato (que a fecha 2025 aún no se ha resuelto del todo) empecé a trabajar en este primer jardín, que estaba en estado de abandono.
 
-![Evolución 2018 a 2025](images/02201820232025.jpg)
+![Evolución 2018 a 2025](images/jard02evolucion201820232025.jpg)
 
 Mi teoría es que hacia la década de 1980, sobre una parcela donde previamente hubo un terrero de lucha, se intentó crear un jardín exclusivamente de especies nativas de las Islas Canarias (en un momento de búsqueda de elementos de identidad, esto llegó a ser común en muchos centros educativos) que luego fue incluyendo otras especies adaptadas a alta insolación y poco riego. De esa época tenemos dos excelentes ejemplares de cardón y un drago, pequeño de tamaño pero con más años de lo que parece, varias euforbias, un balo majestuoso, etc. El jardín fue mantenido por el personal del Centro y en una época se contó con una jardinera (compartida entre varios Institutos). Luego, en algún momento, se dejó de atender, fue siendo invadido por malas hierbas, algunas plantas sobrecrecieron ahogando a otras, aparecieron y tomaron fuerza malas hierbas, etc.
 Lo fundamental fue poner en valor la flora canaria ya existente y acompañarla de especies adecuadas.
 A partir de 2018 reordené plantas, eliminé especies inadecuadas para un jardín transitable (algunas cactáceas realmente peligrosas) y fui introduciendo especies nuevas: magarzas, lavandas, cardoncillo, salado, etc. Instalé bancos, dejé un paso transitable a lo largo del jardín y año a año el proyecto llega hasta hoy, siempre en proceso, y cada vez más equilibrado.
 
-![2025](images/02jardintalleres25.jpg)
+![2025](images/jard03jardintalleres25.jpg)
 
 Actualmente (2025) hay aproximadamente un 50% de especies nativas de Canarias, unas 14 especies, junto a otras 14 exóticas en las Islas.
 
 ## Especies nativas de Canarias
 
-![Drago](images/specdrago2.jpg)
+![Drago](images/spectdrago2.jpg)
 
 ### Drago
 _Dracaena draco_
@@ -44,7 +43,7 @@ Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dr
 
 ***
 
-![Cardón](images/speccardon2.jpg)
+![Cardón](images/spectcardon2.jpg)
 
 ### Cardón
 _Euphorbia canariensis_
@@ -61,7 +60,7 @@ Oficialmente es el símbolo vegetal oficial de la isla de Gran Canaria.
 
 ***
 
-![Balsamifera](images/speceuforbiabalsamifera2.jpg)
+![Balsamifera](images/specteuforbiabalsamifera2.jpg)
 
 ### Tabaiba dulce
 _Euphorbia balsamifera_
@@ -72,7 +71,7 @@ Su savia o látex no es tóxico (al contrario que la mayoría de plantas de su f
 
 ***
 
-![Amarga](images/speceuforbialamarckii22.jpg)
+![Amarga](images/specteuforbialamarckii22.jpg)
 
 ### Tabaiba amarga
 _Euphorbia lamarckii_ 
@@ -85,7 +84,7 @@ Me permito incluir aquí un apunte para un desvío: Lamarck es quien estableció
 
 ***
 
-![Cardoncillo](images/specceropegiadichotoma2.jpg)
+![Cardoncillo](images/spectceropegiadichotoma2.jpg)
 _18 meses de crecimiento_
 
 ### Cardoncillo
@@ -96,7 +95,7 @@ En los jardines del patio he introducido en marzo 2025 la especie del sur (_Cero
 
 ***
 
-![Senecio](images/speckleinianeriifolia2.jpg)
+![Senecio](images/spectkleinianeriifolia2.jpg)
 
 _El senecio más antiguo de estos jardines, en plena dispersión de semillas, un show veraniego_
 
@@ -107,7 +106,7 @@ Es una planta muy resistente, que aquí se reproduce por sí misma con las semil
 
 ***
 
-![Magarza](images/specargyranthemum2.jpg)
+![Magarza](images/spectargyranthemum2.jpg)
 
 ### Margarita / Magarza
 _Argyranthemum frutescens_
@@ -119,7 +118,7 @@ Su nombre _Argyranthemum_ procede del griego _argyros_, "plateado" y _anthemom_ 
 
 ***
 
-![Lavanda](images/speclavandula2.jpg)
+![Lavanda](images/spectlavandula2.jpg)
 
 ### Lavanda
 _Lavandula canariensis_ 
@@ -130,7 +129,7 @@ Es resistente a la sequía y a la insolación y es de la misma familia que las l
 
 ***
 
-![Salado](images/specschizogyne2.jpg)
+![Salado](images/spectschizogyne2.jpg)
 
 ### Salado
 _Schizogyne sericea_
