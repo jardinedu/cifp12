@@ -32,7 +32,7 @@ En el centro del jardín tenemos un drago, puedes estimar su edad aproximada cal
 No es realmente un árbol, su tronco no es de madera sino la acumulación de las cicatrices de sus antiguas hojas, más o menos como las palmeras.
 En las Islas Canarias lo encontramos en la naturaleza en barrancos y medianías, aunque su hábitat favorito es -mala suerte- justo la zona dónde ahora están la mayoría de los pueblos: las medianías. Los indígenas y los primeros colonizadores europeos debieron poder pasar entre bosques de dragos. Ahora quedan, en la naturaleza, unos pocos grupos de dragos salvajes, y ejemplares aislados en barrancos.
 
-![Grabado del famoso drago de los jardines de Franchy en La Orotava](images/02dragoorotava1000px)
+![Grabado del famoso drago de los jardines de Franchy en La Orotava](images/jard04dragoorotava1000px)
 
 Oficialmente es el símbolo vegetal oficial de la isla de Tenerife. Obviamente a la especie, que pudo llegar a las Islas hace 10 millones de años (en el Mioceno) esto poco le importa.
 
@@ -64,6 +64,7 @@ Oficialmente es el símbolo vegetal oficial de la isla de Gran Canaria.
 
 ### Tabaiba dulce
 _Euphorbia balsamifera_
+
 Esta planta es de la familia de las euforbias, en Tenerife la podemos encontrar en toda la costa del sur, a veces en comunidades extensas, los tabaibales. 
 Es fácil de distinguir por su forma redondeada, porte bajo, incluso se aplasta contra la tierra o la lava de los malpaíses, y color rojizo.
 Se adapta muy bien a la falta de lluvia acumulando agua en sus ramas para la estación seca. En cuanto caen las primeras lluvias del invierno desarrolla rápidamente hojas, flores y frutos.
@@ -71,14 +72,16 @@ Su savia o látex no es tóxico (al contrario que la mayoría de plantas de su f
 
 ***
 
-![Amarga](images/specteuforbialamarckii22.jpg)
+![Amarga](images/specteuforbialamarckii2.jpg)
 
 ### Tabaiba amarga
 _Euphorbia lamarckii_ 
+
 Con bastantes similitudes con la tabaiba dulce, pero sus ramas son verdosas y de crecimiento vertical. En este jardín hay un ejemplar especialmente alto.
 Cuidado con su látex, que es irritante para la piel y sobre todo ojos y mucosas.
 
 Hasta hace pocos años se la llamaba _Euphorbia regis-jubae_, en honor al rey Juba de Mauritania, pero un estudio más detallado encontró algunas diferencias que hacen que la especie de Gran Canaria mantiene el nombre _regis-jubae_ y la que se encuentra en Tenerife se llame ahora _Euphorbia lamarckii_, nombre puesto en honor al naturalista francés de los siglos XVIII y XIX Jean-Baptiste Lamarck. 
+
 Me permito incluir aquí un apunte para un desvío: Lamarck es quien estableció el término **biología**, y desarrolló la primera teoría sobre la evolución de la vida en su obra _Filosofía Zoológica_, publicada en 1809. La propuesta de Lamarck propició grandes debates, que hicieron posible las investigaciones de Darwin. Charles Darwin nació el mismo año de publicación de _Filosofía Zoológica_, y medio siglo después, en paralelo a Alfred Russel Wallace, desarrolló teorías que explicaban los mecanismos básicos de la evolución de las especies. Antes de eso Lamarck  ya había sodo denostado y olvidado, terminando su vida en la miseria, dictando (estaba ciego) sus últimas obras a sus hijas. Sin embargo, a finales del siglo XX, científicas como Lynn Margulis han recuperado parte del pensamiento de Lamarck, por ejemplo en su obra Planeta simbiótico, de 1998, y con su hipótesis de la simbiogénesis como principal fuerza evolutiva. Esta hipótesis contradice el actual paradigma de la síntesis evolutiva moderna y los postulados de Darwin y por tanto del neopdarwinismo. Vemos de nuevo cómo la Ciencia no trata de verdades absolutas, sino que propone teorías que más adelante serán extendidas o rebatidas. 
 
 
@@ -89,6 +92,7 @@ _18 meses de crecimiento_
 
 ### Cardoncillo
 _Ceropegia dichotoma_
+
 Aunque se llame cardoncillo es una especie totalmente diferente al cardón.
 Después de varios intentos estoy teniendo la suerte de que arraigue una de las dos especies que existen en Tenerife de cardoncillo, la del norte de la isla (_dichotoma_).
 En los jardines del patio he introducido en marzo 2025 la especie del sur (_Ceropegia fusca_). 
@@ -96,11 +100,11 @@ En los jardines del patio he introducido en marzo 2025 la especie del sur (_Cero
 ***
 
 ![Senecio](images/spectkleinianeriifolia2.jpg)
-
 _El senecio más antiguo de estos jardines, en plena dispersión de semillas, un show veraniego_
 
 ### Senecio / Verode
 _Kleinia neriifolia_
+
 Se le suele llamar también verode, aunque el nombre, como muchos nombres comunes, va cambiando según las islas y las zonas. Esto es confuso ya que también se llama verodes a casi todo el género Aeonium.
 Es una planta muy resistente, que aquí se reproduce por sí misma con las semillas transportadas por el viento. En verano pierde todas sus hojas y las recupera en invierno.
 
@@ -110,6 +114,7 @@ Es una planta muy resistente, que aquí se reproduce por sí misma con las semil
 
 ### Margarita / Magarza
 _Argyranthemum frutescens_
+
 Margarita nativa de las Islas Canarias que llegó a este jardín por sí misma, transportada por el viento o por los pájaros, y que llegó a Inglaterra, transportada por algún botánico para la colección de la reina Mary II en el [palacio de Hampton Court](https://www.hrp.org.uk/hampton-court-palace/whats-on/hampton-court-gardens/national-plant-collections/) ya en el siglo XVI, luego a Holanda, Francia etc, y desde entonces se han desarrollado (y siguen desarrollándose y patentándose) miles de cultivares con todo tipo de tamaños, colores y adaptaciones a otros climas. 
 Su familia, las Asteraceae, está formada por unas 24 especies de Canarias y Madeira.
 
@@ -122,6 +127,7 @@ Su nombre _Argyranthemum_ procede del griego _argyros_, "plateado" y _anthemom_ 
 
 ### Lavanda
 _Lavandula canariensis_ 
+
 También llamada mato risco, lavanda, romanillo o yerba risco, es un endemismo canario, frecuente y hasta abundante en barrancos y laderas pedregosas del Cardonal-tabaibal, formando parte de la vegetación típica de ese ecosistema. Aparece menos en áreas cálidas y soleadas de los bosques termófilos.
 En el año 2004 se publicó una revisión del género Lavandula que determinó que hay hasta siete subespecies de esta planta, una por cada una de las islas de nuestro archipiélago
 Las lavandas de este jardín se trajeron de la zona costera del Valle de Güímar. Tras varios intentos una de ellas arraigó y ahora su propia semillas van haciendo que aparezcan nuevas plantas.
@@ -133,6 +139,7 @@ Es resistente a la sequía y a la insolación y es de la misma familia que las l
 
 ### Salado
 _Schizogyne sericea_
+
 El salado blanco, también conocido como dama en algunas islas es un endemismo macaronésico presente en el Archipiélago Canario y en las islas Salvajes, al norte de Canarias. En El Hierro la única voz que se usa es _irama_, que ha dado nombre incluso a una zona de la costa del Sur de la isla, cercana a La Restinga, en plural, Iramas. El nombre le viene, evidentemente, de la abundancia de estas plantas en el lugar.
 
 Crece en la zona litoral de las islas, sobre sustratos de rocas, laderas y enclaves arenosos, donde la influencia de la maresía generalmente está presente. También es habitual encontrar el salado blanco colonizando los caminos y bordes de carreteras, así como aquellos terrenos alterados por la acción humana. Su área de distribución abarca desde las zonas costeras o litorales hasta altitudes de más de 400 metros. Se ha utilizado en la medicina popular canaria para el tratamiento de algunas dolencias.
